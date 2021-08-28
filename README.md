@@ -7,3 +7,5 @@ This repository was created with the intention of putting here all the hello wor
 
 - [x] **HTML**
 stands for Hypertext Markup Language. It allows users to create and structure sections, paragraphs, headers and links to web pages or applications. 
+
+- [x] **JAVA**
