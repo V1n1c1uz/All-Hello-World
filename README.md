@@ -1,3 +1,7 @@
+<div style="display: inline_block">
+<img align="center" src="./src/images/alltheworld.png">
+</div>
+
 # **Hello World 👋** #
 This repository was created with the intention of putting here all the hello world of the languages we have learned or are learning.
 
