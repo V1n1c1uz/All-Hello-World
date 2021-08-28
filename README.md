@@ -32,6 +32,8 @@ often abbreviated as JS, is a programming language that conforms to the ECMAScri
 - [x] **PYTHON**
 is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
+- [x] **TYPESCRIPT**
+TypeScript is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript.[5] As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs.
 <br>
 
 <h4 align="center"> 🚧 Projeto README 🚀 Em construção... 🚧
