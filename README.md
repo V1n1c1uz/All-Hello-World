@@ -6,7 +6,4 @@ This repository was created with the intention of putting here all the hello wor
 # Languages we've already added #
 
 - [x] **HTML**
-
-167 / 5000
-Resultados de tradução
 HTML stands for Hypertext Markup Language. It allows users to create and structure sections, paragraphs, headers and links to web pages or applications. 
