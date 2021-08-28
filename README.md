@@ -22,6 +22,9 @@ stands for Hypertext Markup Language. It allows users to create and structure se
 - [x] **JAVA**
 is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere, meaning that compiled Java code can run on all platforms that support Java without the need for recompilation
 
+- [x] **JAVASCRIPT**
+JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+
 - [x] **PHP**
  is a general-purpose scripting language geared towards web development.
  PHP code is usually processed on a web server by a PHP interpreter implemented as a module
