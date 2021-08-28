@@ -1,7 +1,7 @@
 # **Hello World 👋** #
 This repository was created with the intention of putting here all the hello world of the languages we have learned or are learning.
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="Icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Icon-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
