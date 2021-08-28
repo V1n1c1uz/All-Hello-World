@@ -28,3 +28,6 @@ often abbreviated as JS, is a programming language that conforms to the ECMAScri
 - [x] **PHP**
  is a general-purpose scripting language geared towards web development.
  PHP code is usually processed on a web server by a PHP interpreter implemented as a module
+
+- [x] **PYTHON**
+ Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
