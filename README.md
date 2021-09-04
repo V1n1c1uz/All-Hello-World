@@ -35,7 +35,12 @@ is an interpreted high-level general-purpose programming language. Its design ph
 
 - [x] **TYPESCRIPT**
 is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs.
+
+
+- [x] **C** 
+is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support.
 <br>
+
 
 <h4 align="center"> 🚧 Projeto README 🚀 Em construção... 🚧
 </h4>
