@@ -7,7 +7,7 @@ This repository was created with the intention of putting here all the hello wor
 
 <img align="center" alt="Icon-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<img align="center" alt="Icon-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img align="center" alt="Icon-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
