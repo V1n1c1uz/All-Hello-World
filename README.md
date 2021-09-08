@@ -65,5 +65,4 @@ is dynamically typed and uses garbage collection and just-in-time compilation. I
 <br>
 
 
-<h4 align="center"> 🚧 Projeto README 🚀 Em construção... 🚧
-</h4>
+<h4 align="center"> 🚧 README project 🚀 Under construction... 🚧</h4>
