@@ -5,9 +5,19 @@ This repository was created with the intention of putting here all the hello wor
 <div style="display: inline_block">
 <img align="center" alt="Icon-assembler" height="30" width="45" src="https://i.ibb.co/1q9tzCt/378px-Netwide-Assembler-svg.png">
 
+<img align="center" alt="Icon-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+
 <img align="center" alt="Icon-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
+<img align="center" alt="Icon-clojure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
+
 <img align="center" alt="Icon-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<img align="center" alt="Icon-d" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1013px-D_Programming_Language_logo.svg.png">
+
+<img align="center" alt="Icon-erlang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg">
+
+<img align="center" alt="Icon-f" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/180px-Fortran_logo.svg.png">
 
 <img align="center" alt="Icon-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
@@ -16,6 +26,11 @@ This repository was created with the intention of putting here all the hello wor
 <img align="center" alt="Icon-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <img align="center" alt="Icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="Icon-perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg">
+
+<img align="center" alt="Icon-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+
 <img align="center" alt="Icon-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 <img align="center" alt="Icon-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -66,6 +81,27 @@ is dynamically typed and uses garbage collection and just-in-time compilation. I
 
 - [x] **ASSEMBLY**
 In computer programming, assembly language (or assembler language), sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions.Because assembly depends on the machine code instructions, every assembly language is designed for exactly one specific computer architecture. Assembly language may also be called symbolic machine code.
+
+- [x] **BASH**
+is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been used as the default login shell for most Linux distributions.
+
+- [x] **CLOJURE**
+like closure) is a dynamic and functional dialect of the Lisp programming language on the Java platform. Like other Lisp dialects, Clojure treats code as data and has a Lisp macro system.The current development process is community-driven
+
+- [x] **ERLANG**
+is a general-purpose[citation needed], concurrent, functional programming language, and a garbage-collected runtime system. The term Erlang is used interchangeably with Erlang/OTP, or Open Telecom Platform (OTP), which consists of the Erlang runtime system, several ready-to-use components (OTP) mainly written in Erlang, and a set of design principles for Erlang programs
+
+- [x] **D**
+also known as Dlang, is a multi-paradigm system programming language created by Walter Bright at Digital Mars and released in 2001. Andrei Alexandrescu joined the design and development effort in 2007. Though it originated as a re-engineering of C++, D is a distinct language. It has redesigned some core C++ features, while also sharing characteristics of other languages, notably Java, Python, Ruby, C#, and Eiffel.
+
+- [x] **F**
+is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.
+
+- [x] **LUA**
+is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C,and Lua has a relatively simple C API to embed it into applications.
+
+- [x] **PERL**
+is a family of two high-level, general-purpose, interpreted, dynamic programming languages. "Perl" refers to Perl 5, but from 2000 to 2019 it also referred to its redesigned "sister language", Perl 6, before the latter's name was officially changed to Raku in October 2019.
 
 <br>
 
