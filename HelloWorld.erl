@@ -1,1 +1,1 @@
-main(_) -> io:format("Hello World!");
+main(_) -> io:format("Hello World").
