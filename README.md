@@ -112,7 +112,7 @@ is a family of two high-level, general-purpose, interpreted, dynamic programming
 
 
 - [x] **PUG**
-A PUG file is a template written in the Pug language, which is an abbreviated HTML language that is used similarly to the Emmet and Markdown languages. It contains HTML code in standard syntax but does not include closing tags and instead emphasizes indents. PUG files are commonly used to create dynamic web pages, while .HTML files generally produce static web pages.
+is a template written in the Pug language, which is an abbreviated HTML language that is used similarly to the Emmet and Markdown languages. It contains HTML code in standard syntax but does not include closing tags and instead emphasizes indents. PUG files are commonly used to create dynamic web pages, while .HTML files generally produce static web pages.
 
 
 - [x] **PYTHON**
