@@ -110,6 +110,11 @@ is a family of two high-level, general-purpose, interpreted, dynamic programming
  is a general-purpose scripting language geared towards web development.
  PHP code is usually processed on a web server by a PHP interpreter implemented as a module
 
+
+- [x] **PUG**
+A PUG file is a template written in the Pug language, which is an abbreviated HTML language that is used similarly to the Emmet and Markdown languages. It contains HTML code in standard syntax but does not include closing tags and instead emphasizes indents. PUG files are commonly used to create dynamic web pages, while .HTML files generally produce static web pages.
+
+
 - [x] **PYTHON**
 is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
