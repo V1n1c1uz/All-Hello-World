@@ -48,6 +48,10 @@ This repository was created with the intention of putting here all the hello wor
 
 # Languages we've already added #
 
+- [x] **ASSEMBLY**
+In computer programming, assembly language (or assembler language), sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions.Because assembly depends on the machine code instructions, every assembly language is designed for exactly one specific computer architecture. Assembly language may also be called symbolic machine code.
+
+
 - [x] **HTML**
 stands for Hypertext Markup Language. It allows users to create and structure sections, paragraphs, headers and links to web pages or applications. 
 
@@ -81,8 +85,6 @@ is a statically typed, compiled programming language designed at Google by Rober
 is an interpreted, high-level, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
 is dynamically typed and uses garbage collection and just-in-time compilation. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
-- [x] **ASSEMBLY**
-In computer programming, assembly language (or assembler language), sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions.Because assembly depends on the machine code instructions, every assembly language is designed for exactly one specific computer architecture. Assembly language may also be called symbolic machine code.
 
 - [x] **BASH**
 is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been used as the default login shell for most Linux distributions.
